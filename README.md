@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming stuff
 - 🌱 I’m currently learning flutter, python and go
 - 💞️ I’m looking to collaborate on middle and senior programmers
-- 📫 How to reach me >>> 
+- 📫 How to reach me >>> Telegram/ @leoca1
 
 <!---
 Leo-prog-ca/Leo-prog-ca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
