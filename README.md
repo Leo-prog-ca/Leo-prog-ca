@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leo-prog-ca
-- 👀 I’m interested in programming stuff
-- 🌱 I’m currently learning flutter, python and go
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning python and golang
 - 💞️ I’m looking to collaborate on middle and senior programmers
 - 📫 How to reach me >>> Telegram/ @leoca1
 
